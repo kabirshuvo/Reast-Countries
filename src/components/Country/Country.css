@@ -1,0 +1,13 @@
+.CountryDiv {
+  border: 2px solid silver;
+  background-color: rebeccapurple;
+  border-radius: 1rem;
+  color: whitesmoke;
+  padding: 1rem;
+}
+.nameNcapital {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
